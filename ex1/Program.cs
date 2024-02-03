@@ -1,0 +1,1 @@
+﻿System.Console.WriteLine("List<T> razmer nadora chankae ki mo doxil kadan megirem ruyxati List kalon sidan megira va massiv bosha ay rezmers bisyor girifta nametona");
